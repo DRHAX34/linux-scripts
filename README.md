@@ -1,3 +1,1 @@
-# linux-scripts
-# linux-scripts
-# linux-scripts
+Simple repository where I keep some linux scripts I make.
